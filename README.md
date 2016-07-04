@@ -15,6 +15,7 @@
 * 하나
  * 두울
   * 세엣
+  * 네엣 :)
 
 ## 3. 인용
 	> 사용
@@ -27,13 +28,13 @@
 
 ## 5. 링크
 	 [Title](link)
-[꽃율생활한복](http://www.floweryul.co.kr)
+[꽃율생활한복](http://www.floweryul.com)
 
 ## 6. bold
 	*이탤릭*
 	**bold**
 	~~취소선~~
-hello, *stranger*
+hello, *stranger* ~~!!!~~
 
 
 
